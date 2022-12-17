@@ -1,0 +1,79 @@
+.dude {
+    border: 10px solid blue;
+}
+.index
+{
+    background-color: orange;
+    color: black;
+}
+.index:hover{
+    background-color: ghostwhite;
+    color: orangered;
+}
+nav li {
+    display: inline-block;
+    margin-left: 70px;
+    padding-top: 25px;
+
+}
+
+body {
+    background-color: lightblue;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    background:#55d6aa;
+}
+header::after {
+    content: '';
+    display: table;
+    clear: both;   
+}
+
+nav {
+    float: left;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+header::hover {
+    color: orange;
+    background-color: orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
